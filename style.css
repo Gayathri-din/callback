@@ -1,0 +1,35 @@
+body{
+    padding: 0;
+    margin: 0;
+    color: rgb(120, 13, 182);
+    background-color: rgb(165, 207, 165);
+
+}
+.main{
+
+    height: 100vh;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 100px;
+    padding: 500px;
+}
+.sub{
+    width: 400px;
+    height: 50px;
+    display: 50px;
+    justify-content: center;
+    align-items: center;
+    margin: 100px;
+    padding: 500px;
+}
+.timer{
+    font-weight:bolder;
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    justify-content: center;
+    align-items: center;
+    margin: 100px;
+    padding: 500px;
+}
